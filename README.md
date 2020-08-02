@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-
 - 🔭 I’m currently working on Algorithim Visualizing Project
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Any JS/NodeJS projects
