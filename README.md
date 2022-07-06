@@ -11,6 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How does the fetch method work](https://dev.to/ahmedgaafer/how-does-the-fetch-method-works-39om)
+- [The {... } is dangerous](https://dev.to/ahmedgaafer/the-is-dangerous-che)
+- [S.O.L.I.D.    ???](https://dev.to/ahmedgaafer/solid--26c6)
+- [Can we build a ReactJS Custom Hooks Repo?](https://dev.to/ahmedgaafer/reactjs-custom-hooks-c7h)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
