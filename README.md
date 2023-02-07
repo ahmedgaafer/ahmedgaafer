@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How does redux&#39;s connect work?](https://dev.to/ahmedgaafer/how-does-reduxs-connect-work-hkm)
 - [I wanted to learn typescript so I built an npm package](https://dev.to/ahmedgaafer/i-wanted-to-learn-typescript-so-i-built-an-npm-package-58fh)
 - [How does the fetch method work](https://dev.to/ahmedgaafer/how-does-the-fetch-method-works-39om)
 - [The {... } is dangerous](https://dev.to/ahmedgaafer/the-is-dangerous-che)
-- [S.O.L.I.D.    ???](https://dev.to/ahmedgaafer/solid--26c6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
