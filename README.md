@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gaafer</h1>
-<h3 align="center">I am a JS Enthusiast and I like creative programming 🤓</h3>
+<h3 align="center">I am a JS Enthusiast That Seeks To Learn New Stuff🤓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedgaafer&label=Profile%20views&color=0eb42f&style=flat" alt="ahmedgaafer" /> </p>
 
